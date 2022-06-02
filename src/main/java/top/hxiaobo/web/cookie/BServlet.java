@@ -28,8 +28,9 @@ public class BServlet extends HttpServlet {
                 System.out.println(name+":"+value);
                 break;
                 
-                System.out.println("fdfdsafdsafdas");
+                
             }
+            System.out.println("fdfdsafdsafdas");
         }
     }
 
