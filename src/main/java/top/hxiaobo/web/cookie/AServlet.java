@@ -14,6 +14,9 @@ public class AServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
          //发送cookie
         System.out.println("restr");
+
+        //woca
+        System.out.println("ffdfas");
         String value="张三";
         value = URLEncoder.encode(value, "UTF-8");
 
